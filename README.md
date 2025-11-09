@@ -12,6 +12,6 @@ python3 app/main.py update STUDENT_ID NEW_EMAIL
 python3 app/main.py delete STUDENT_ID
 
 ## Demo Video
-(Add your video link here)
+https://youtu.be/ESe7YFnPaBU
 
 
